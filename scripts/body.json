@@ -1,0 +1,13 @@
+{
+"nome-cliente": "Joao da Silva",
+"custo": 0.84,
+"percentual": 12,
+"percentual-solar": 1.25,
+"nome-vendedor": "maria vendedora",
+"produtos": [{"gerador": "58583-4"}],
+"cpf-cliente": 12345678901
+"cidade": "Umuarama",
+"aumento-anual": 12
+}
+
+

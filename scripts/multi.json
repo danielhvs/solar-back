@@ -1,0 +1,14 @@
+{
+"nome-cliente": "Joao da Silva",
+"custo": 0.84,
+"percentual": 12,
+"percentual-solar": 1.25,
+"nome-vendedor": "maria vendedora",
+"produtos": [{"gerador": "58583-4"}, 
+             {"transformador": "31557-4", "gerador": "58582-0"},
+             {"transformador": "31557-4", "gerador": "58582-0"}
+],
+"cpf-cliente": 12345678901
+"cidade": "Sao Paulo",
+"aumento-anual": 12
+}
